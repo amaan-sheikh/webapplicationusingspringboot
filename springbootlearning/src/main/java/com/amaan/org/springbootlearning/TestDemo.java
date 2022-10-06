@@ -9,4 +9,11 @@ public class TestDemo {
 		return "Return registration page";
 	}
 
+	public String login() {
+		return "return login page";
+	}
+	
+	public String logout() {
+		return "return logout page";
+	}
 }
